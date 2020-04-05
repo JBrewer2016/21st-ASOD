@@ -1,0 +1,21 @@
+//Fixes for Training Mission File
+
+//PF Compound
+	-Vehicles exploding
+	-TOC Items in the air
+	-Sadistic Professional Sign in Photoshop
+	-Heli-Pad Light in the air
+	
+//Range
+	-Fix Pop-Up targets on range
+	-Add Targets to CQB Fac 3
+	
+//Main Base
+	-Add full Aviation Assets
+	-Add Rearm, Resupply, and Refuel Vehicles
+	
+//Bounding Range
+	-Add Teleporter at end of course.
+	
+//Fire Support Range
+	-Doors locked on tower
